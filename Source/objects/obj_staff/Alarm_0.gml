@@ -1,0 +1,4 @@
+/// Firing Speed
+firing=false;
+
+

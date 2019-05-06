@@ -1,0 +1,55 @@
+Font font_ui_large has been converted to font family Arial (Regular). Font has been regenerated, small inconsistencies may occur.
+Font font_ui_medium has been converted to font family Calibri (Regular). Font has been regenerated, small inconsistencies may occur.
+Font font_store_cash has been converted to font family Arial (Regular). Font has been regenerated, small inconsistencies may occur.
+Converting GML script : ${project_dir}\objects\obj_player\Step_0.gml
+Converted string : line 4 : 'D' -> "D"
+Converted string : line 4 : 'A' -> "A"
+Converted string : line 5 : 'S' -> "S"
+Converted string : line 5 : 'W' -> "W"
+
+Font font_ui_small has been converted to font family Calibri (Regular). Font has been regenerated, small inconsistencies may occur.
+Converting GML script : ${project_dir}\objects\cont_pause\Create_0.gml
+Converted builtin : line 9 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin : line 12 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin : line 10 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin : line 13 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin : line 1 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin : line 1 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script : ${project_dir}\objects\cont_pause\Draw_64.gml
+Converted builtin : line 4 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin : line 5 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin : line 4 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin : line 5 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted string : line 4 : "PAUSED#Press 'space' to continue" -> "PAUSED#Press \'space\' to continue"
+
+Converting GML script : ${project_dir}\objects\cont_pause\Draw_0.gml
+Converted builtin : line 3 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin : line 8 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin : line 8 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin : line 3 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin : line 8 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin : line 8 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin : line 8 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin : line 8 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script : ${project_dir}\objects\obj_ding\Draw_0.gml
+Converted builtin : line 4 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin : line 4 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin : line 4 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin : line 4 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit.
+game speed set to 60
+added compatibility script action/action_move.gml
+added compatibility script action/action_path.gml
+added compatibility script action/action_reverse_ydir.gml
+added compatibility script action/action_set_alarm.gml
+added compatibility script action/action_set_motion.gml
+added compatibility script instance/instance_create.gml
+added compatibility script object/object_get_depth.gml
+added compatibility script view/__view_get.gml
+added compatibility script action/__init_action.gml
+added compatibility script view/__init_view.gml
+added compatibility script __init_global.gml
+added compatibility script __global_object_depths.gml
